@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ACE/static/css/main.3eeb8f0a.css",
+    "main.js": "/ACE/static/js/main.ca2a4edf.js",
+    "static/js/787.dcf9880f.chunk.js": "/ACE/static/js/787.dcf9880f.chunk.js",
+    "static/media/ACE_N_BEAST2.jpg": "/ACE/static/media/ACE_N_BEAST2.626cd4290a1433493907.jpg",
+    "static/media/ACE_GROUP.jpg": "/ACE/static/media/ACE_GROUP.d0971a8ab98b8e778575.jpg",
+    "static/media/ACE_GROUP2.jpg": "/ACE/static/media/ACE_GROUP2.4fcaba1deb2fc43a06a7.jpg",
+    "static/media/ACE_STUDY.jpg": "/ACE/static/media/ACE_STUDY.e0f00b99d2f1284cd444.jpg",
+    "static/media/ACE_logo2_1.svg": "/ACE/static/media/ACE_logo2_1.2c304583436dd8717f87d41c57f0e0f5.svg",
+    "static/media/mafalda_gueta.png": "/ACE/static/media/mafalda_gueta.7de46f8d450bf9d4c528.png",
+    "static/media/tufts 1.png": "/ACE/static/media/tufts 1.9ccea791731f9ec3201f.png",
+    "index.html": "/ACE/index.html",
+    "main.3eeb8f0a.css.map": "/ACE/static/css/main.3eeb8f0a.css.map",
+    "main.ca2a4edf.js.map": "/ACE/static/js/main.ca2a4edf.js.map",
+    "787.dcf9880f.chunk.js.map": "/ACE/static/js/787.dcf9880f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eeb8f0a.css",
+    "static/js/main.ca2a4edf.js"
+  ]
+}
